@@ -1,13 +1,13 @@
 # 🔹 Uses of Container 📦
-Holds all webpage content 🧾
-Keeps content centered 🎯
-Adds spacing (margin & padding) 📏
-Makes website responsive 📱💻
-Helps create layout using rows & columns 🧱
+1.Holds all webpage content 🧾
+2.Keeps content centered 🎯
+3.Adds spacing (margin & padding) 📏
+4.Makes website responsive 📱💻
+5.Helps create layout using rows & columns 🧱
 🔹 Structure of Container 🏗️
-container → main wrapper 📦
-row → horizontal section ➖
-col → divides into columns 📊
+1.container → main wrapper 📦
+2.row → horizontal section ➖
+3.col → divides into columns 📊
 
 👉 Order:
 Container → Row → Column → Content
